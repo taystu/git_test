@@ -15,3 +15,5 @@ if anyone pulls and changes before you its a merge conflict
 git branch - tells what branch your in
 git branch feature1 - creates feature1 brnahc
 git checkout feature1 - swithces to branch
+
+#git pull requests
